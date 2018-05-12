@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31505
     wikipedia: http://en.wikipedia.org/wiki/Iraq_Study_Group
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25686#The-Iraq-Study-Group-Report
 gutenberg_issued: '2008-06-03'
 gutenberg_type: Text
 identifiers:
