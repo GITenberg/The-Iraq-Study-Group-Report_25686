@@ -1,0 +1,30 @@
+_repo: The-Iraq-Study-Group-Report_25686
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Iraq Study Group (U.S.)
+    gutenberg_agent_id: '31505'
+    url: http://www.gutenberg.org/2009/agents/31505
+    wikipedia: http://en.wikipedia.org/wiki/Iraq_Study_Group
+description: ''
+gutenberg_issued: '2008-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arab-Israeli conflict -- 1993- -- Peace'
+- !lcsh 'Iraq -- Politics and government -- 2003-'
+- !lcc 'E895'
+- !lcsh 'United States -- Military policy'
+- !lcsh 'United States -- Foreign relations -- 2001-'
+- !lcsh 'Iraq War, 2003-2011'
+- !lcsh 'Terrorism -- Government policy -- United States'
+title: The Iraq Study Group Report
+url: http://www.gutenberg.org/ebooks/25686
